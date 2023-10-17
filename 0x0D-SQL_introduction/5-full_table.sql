@@ -1,2 +1,2 @@
- -- Describe table. 
+-- list table. 
 SHOW CREATE TABLE first_table;
